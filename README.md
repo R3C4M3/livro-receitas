@@ -2,7 +2,8 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff
+- Strogonoff de Carne
 
 - Pavê
 
+- Bolo de Cenoura
